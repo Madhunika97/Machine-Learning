@@ -81,6 +81,9 @@ plt.show()
 ```
 This bar chart provides a clear visualization of the MSE values for each fold, showing how the model performed across different subsets of the data.
 
+![image](https://github.com/user-attachments/assets/3b6bf9ed-7a50-4499-8e2f-a951ae85afa8)
+
+
 ### **Conclusion:**
 The objective of this exercise was to evaluate the performance of a Linear Regression model on the California Housing dataset using cross-validation. By visualizing the MSE for each fold, we can observe the consistency of the model’s performance across different parts of the data.
 
